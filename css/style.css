@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+body{
+	font-family: 'Raleway', sans-serif;
+}
+
+#hero{
+	font-family: 'Raleway', sans-serif;
+	padding: 10% 0;	
+}
+
+#hero h4{
+	background-color: #FFDA79;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 65px;
+	font-size: 18px;
+	padding: 5px 5px;
+	border-radius: 1px;	
+}
+
+#hero h2{
+	font-family: 'Raleway', sans-serif;	
+	font-size: 60px;
+}
+
+.btn-contacto{
+	margin-top: 65px;
+	font-size: 18px;
+	background-color:#000000;
+	color: #FFFFFF;
+	padding: 10px 14px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	border-radius: 1px;
+}
+
+#about{
+	background-color: #cce4e4;
+	color: #17494d;
+	padding: 5%;
+}
+
+#about h4{
+	font-size: 40px;
+}
+
+#about h3{
+	font-size: 20px;
+}
+
+#worlwide{
+	background-color: #FFFFFF;
+}
+
+#worldwide h4{
+	text-align: center;
+	background-color: #FFDA79;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 65px;
+	font-size: 18px;
+	padding: 5px 5px;
+	border-radius: 1px;	
+}
+
+#worldwide h2{
+	text-align: center;
+}
+
+.seoul{
+	text-align: center;
+}
+
+#subscribe{
+font-family: 'Raleway', sans-serif;	
+padding: 5% 0;
+background-color: #d6baf5;
+}
+
+#subscribe h3{
+font-size: 50px;
+}
+
+.btn-start{
+	margin-top: 65px;
+	font-size: 18px;
+	background-color:#000000;
+	color: #FFFFFF;
+	padding: 10px 14px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	border-radius: 1px;
+}
+
+
+footer{
+	padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
